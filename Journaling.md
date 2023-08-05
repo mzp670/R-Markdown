@@ -1,4 +1,4 @@
-#### Sprucing Up Your Weekly Journal with Fun Tricks:
+#### Sprucing Up Your Markdown Journal with Fun Tricks:
 
 Let's explore some neat ways to add a touch of creativity to your weekly task or achievement journal using simple markdown techniques.
 
