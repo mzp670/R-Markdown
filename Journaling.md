@@ -43,6 +43,7 @@ Imagine sticking a photo into your journal. Markdown can do that too. Just use t
 ![Description](Image_URL)
 ```
 ![journal](https://images.pexels.com/photos/636243/pexels-photo-636243.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 Replace "Description" with a short note about the picture and "Image_URL" with the web link of the picture. Your journal will come alive with images.
 
 <br>
