@@ -1,4 +1,4 @@
-#### Sprucing Up Your Weekly Journal with Fun Tricks:
+#### Sprucing Up Your Markdown Journal with Fun Tricks:
 
 Let's explore some neat ways to add a touch of creativity to your weekly task or achievement journal using simple markdown techniques.
 
@@ -43,6 +43,7 @@ Imagine sticking a photo into your journal. Markdown can do that too. Just use t
 ![Description](Image_URL)
 ```
 ![journal](https://images.pexels.com/photos/636243/pexels-photo-636243.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 Replace "Description" with a short note about the picture and "Image_URL" with the web link of the picture. Your journal will come alive with images.
 
 <br>
@@ -84,7 +85,8 @@ For instance, on platforms like GitHub, you can embed a YouTube video using the 
 ```r
 [![Video](VIDEO_THUMBNAIL)](VIDEO_URL)
 ```
-[![Video](https://vimeo.com/178485416))
+
+[![Video](VIDEO_THUMBNAIL)](https://vimeo.com/178485416)
 
 Replace VIDEO_THUMBNAIL with the thumbnail image URL and VIDEO_URL with the video URL. The result will be an image that, when clicked, links to the video.
 
