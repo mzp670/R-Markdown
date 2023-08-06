@@ -85,6 +85,7 @@ For instance, on platforms like GitHub, you can embed a YouTube video using the 
 ```r
 [![Video](VIDEO_THUMBNAIL)](VIDEO_URL)
 ```
+
 [![Video](VIDEO_THUMBNAIL)](https://vimeo.com/178485416)
 
 Replace VIDEO_THUMBNAIL with the thumbnail image URL and VIDEO_URL with the video URL. The result will be an image that, when clicked, links to the video.
